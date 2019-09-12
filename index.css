@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    margin: 0;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.nav {
+    background-color: #FFFFFF;
+    color: #000000;
+    text-align: center;
+    padding: 0px 15px;
+}
+.banner {
+    background-image: url(img/banner.jpg);
+    height: 500px;
+    position: relative;
+    background-size: cover;
+}
+.mission {
+    background-color: #FFE964;
+    color: #000000;
+    
+}
+
+.aboutus {
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+.ourteam {
+    background-color: #FF523D;
+}
+
+.footer {
+    background-color: #223C88;
+    margin: 0;
+}
